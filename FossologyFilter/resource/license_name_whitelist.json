@@ -1,0 +1,1088 @@
+{
+  "addition_white": [
+
+  ],
+  "glide": [
+    "glide"
+  ],
+  "abstyles": [
+    "abstyles"
+  ],
+  "afl": [
+    "academic",
+    "afl"
+  ],
+  "ampas": [
+    "academy of motion picture arts and sciences bsd",
+    "ampas"
+  ],
+  "apl": [
+    "adaptive public license",
+    "apl"
+  ],
+  "adobe glyph": [
+    "adobe glyph list",
+    "adobe glyph"
+  ],
+  "apafml": [
+    "adobe postscript afm",
+    "apafml"
+  ],
+  "adobe 2006": [
+    "adobe systems incorporated source code",
+    "adobe 2006"
+  ],
+  "agpl": [
+    "affero general public",
+    "agpl"
+  ],
+  "afmparse": [
+    "afmparse license",
+    "afmparse"
+  ],
+  "aladdin": [
+    "aladdin free public",
+    "aladdin"
+  ],
+  "adsl": [
+    "amazon digital services",
+    "adsl"
+  ],
+  "amdplpa": [
+    "amd's plpa_map.c",
+    "amdplpa"
+  ],
+  "antlr pd": [
+    "antlr software rights notice",
+    "antlr pd"
+  ],
+  "apache": [
+    "apache"
+  ],
+  "aml": [
+    "apple mit",
+    "aml"
+  ],
+  "apsl": [
+    "apple public source",
+    "apsl"
+  ],
+  "artistic": [
+    "artistic license",
+    "artistic"
+  ],
+  "aal": [
+    "attribution assurance license",
+    "aal"
+  ],
+  "bahyph": [
+    "bahyph"
+  ],
+  "barr": [
+    "barr"
+  ],
+  "beerware": [
+    "beerware"
+  ],
+  "bittorrent": [
+    "bittorrent open source",
+    "bittorrent"
+  ],
+  "bsl": [
+    "boost software license",
+    "bsl"
+  ],
+  "borceux": [
+    "borceux license",
+    "borceux"
+  ],
+  "bzip": [
+    "bzip"
+  ],
+  "caldera": [
+    "caldera license",
+    "caldera"
+  ],
+  "cecill": [
+    "cecill"
+  ],
+  "clartistic": [
+    "clarified artistic license",
+    "clartistic"
+  ],
+  "mit cmu": [
+    "cmu license",
+    "mit cmu"
+  ],
+  "cnri jython": [
+    "cnri jython"
+  ],
+  "cnri python": [
+    "cnri python"
+  ],
+  "cpol": [
+    "code project open license",
+    "cpol"
+  ],
+  "cddl": [
+    "common development and distribution",
+    "cddl"
+  ],
+  "cpal": [
+    "common public attribution",
+    "cpal"
+  ],
+  "cpl": [
+    "common public license",
+    "cpl"
+  ],
+  "catosl": [
+    "computer associates trusted open source license",
+    "catosl"
+  ],
+  "condor": [
+    "condor public license",
+    "condor"
+  ],
+  "cc": [
+    "creative commons attribution",
+    "cc by",
+    "creative commons zero",
+    "cc0"
+  ],
+  "crossword": [
+    "crossword license"
+  ],
+  "crystalstacker": [
+    "crystalstacker license"
+  ],
+  "cua opl": [
+    "cua office public license",
+    "cua opl"
+  ],
+  "cube": [
+    "cube"
+  ],
+  "curl": [
+    "curl"
+  ],
+  "d fsl": [
+    "deutsche freie software lizenz",
+    "d fsl"
+  ],
+  "diffmark": [
+    "diffmark"
+  ],
+  "wtfpl": [
+    "do what the f*ck you want to public license",
+    "wtfpl"
+  ],
+  "doc": [
+    "doc license"
+  ],
+  "dotseqn": [
+    "dotseqn"
+  ],
+  "dsdp": [
+    "dsdp"
+  ],
+  "dvipdfm": [
+    "dvipdfm"
+  ],
+  "epl": [
+    "eclipse public license",
+    "epl"
+  ],
+  "ecos": [
+    "ecos license version",
+    "ecos"
+  ],
+  "ecl": [
+    "educational community license",
+    "ecl"
+  ],
+  "egenix": [
+    "egenix"
+  ],
+  "efl": [
+    "eiffel forum license",
+    "efl"
+  ],
+  "mit advertising": [
+    "enlightenment license",
+    "mit advertising"
+  ],
+  "mit enna": [
+    "enna license",
+    "mit enna"
+  ],
+  "entessa": [
+    "entessa public license",
+    "entessa"
+  ],
+  "erlpl": [
+    "erlang public license",
+    "erlpl"
+  ],
+  "eudatagrid": [
+    "eu datagrid software license",
+    "eudatagrid"
+  ],
+  "eupl": [
+    "european union public license",
+    "eupl"
+  ],
+  "eurosym": [
+    "eurosym license",
+    "eurosym"
+  ],
+  "fair": [
+    "fair license"
+  ],
+  "mit feh": [
+    "feh license",
+    "mit feh"
+  ],
+  "frameworx": [
+    "frameworx"
+  ],
+  "freeimage": [
+    "freeimage"
+  ],
+  "ftl": [
+    "freetype project license",
+    "ftl"
+  ],
+  "fsfap": [
+    "fsf all permissive license",
+    "fsfap"
+  ],
+  "fsful": [
+    "fsf unlimited license",
+    "fsful"
+  ],
+  "fsfullr": [
+    "fsf unlimited license",
+    "fsfullr"
+  ],
+  "giftware": [
+    "giftware"
+  ],
+  "gl2ps": [
+    "gl2ps"
+  ],
+  "glulxe": [
+    "glulxe"
+  ],
+  "gfdl": [
+    "free documentation license",
+    "gfdl"
+  ],
+  "gpl": [
+    "general public license",
+    "gpl"
+  ],
+  "gnuplot": [
+    "gnuplot"
+  ],
+  "gsoap": [
+    "gsoap"
+  ],
+  "haskellreport": [
+    "haskell language report license",
+    "haskellreport"
+  ],
+  "hpnd": [
+    "historical permission notice and disclaimer",
+    "hpnd"
+  ],
+  "ibm pibs": [
+    "ibm powerpc initialization and boot software",
+    "ibm pibs"
+  ],
+  "ipl": [
+    "ibm public licens",
+    "ipl"
+  ],
+  "icu": [
+    "icu license"
+  ],
+  "imagemagick": [
+    "imagemagick"
+  ],
+  "imatix": [
+    "imatix"
+  ],
+  "imlib2": [
+    "imlib2"
+  ],
+  "ijg": [
+    "independent jpeg group license",
+    "ijg"
+  ],
+  "info zip": [
+    "info zip"
+  ],
+  "intel acpi": [
+    "intel acpi"
+  ],
+  "intel": [
+    "intel open source license"
+  ],
+  "interbase": [
+    "interbase public license",
+    "interbase"
+  ],
+  "ipa": [
+    "ipa font license",
+    "ipa"
+  ],
+  "isc": [
+    "isc license",
+    "isc"
+  ],
+  "jasper": [
+    "jasper license",
+    "jasper"
+  ],
+  "json": [
+    "json license",
+    "json"
+  ],
+  "lppl": [
+    "latex project public license",
+    "lppl"
+  ],
+  "latex2e": [
+    "latex2e"
+  ],
+  "bsd": [
+    "berkeley national labs bsd variant license",
+    "bsd"
+  ],
+  "leptonica": [
+    "leptonica"
+  ],
+  "lgpllr": [
+    "lesser general public license for linguistic resources",
+    "lgpllr"
+  ],
+  "libpng": [
+    "libpng license",
+    "png reference library",
+    "libpng"
+  ],
+  "libtiff": [
+    "libtiff license",
+    "libtiff"
+  ],
+  "lal": [
+    "licence art libre",
+    "lal"
+  ],
+  "liliq p": [
+    "licence libre du québec – permissive version",
+    "liliq"
+  ],
+  "lpl": [
+    "lucent public license",
+    "lpl"
+  ],
+  "makeindex": [
+    "makeindex license",
+    "makeindex"
+  ],
+  "mtll": [
+    "matrix template library license",
+    "mtll"
+  ],
+  "ms pl": [
+    "microsoft public license",
+    "ms pl"
+  ],
+  "ms rl": [
+    "microsoft reciprocal license",
+    "ms rl"
+  ],
+  "miros": [
+    "miros licence",
+    "miros"
+  ],
+  "mitnfa": [
+    "mit no false attribs license",
+    "mitnfa"
+  ],
+  "mit": [
+    "mit"
+  ],
+  "motosoto": [
+    "motosoto"
+  ],
+  "mpl": [
+    "mozilla public license",
+    "mpl"
+  ],
+  "mpich2": [
+    "mpich2 license",
+    "mpich2"
+  ],
+  "multics": [
+    "multics license",
+    "multics"
+  ],
+  "mup": [
+    "mup license",
+    "mup"
+  ],
+  "nasa": [
+    "nasa open source agreement",
+    "nasa"
+  ],
+  "naumen": [
+    "naumen public license",
+    "naumen"
+  ],
+  "nbpl": [
+    "net boolean public license",
+    "nbpl"
+  ],
+  "net snmp": [
+    "net snmp"
+  ],
+  "netcdf": [
+    "netcdf"
+  ],
+  "ngpl": [
+    "nethack general public license",
+    "ngpl"
+  ],
+  "nosl": [
+    "netizen open source license",
+    "nosl"
+  ],
+  "npl": [
+    "netscape public license",
+    "npl"
+  ],
+  "newsletr": [
+    "newsletr"
+  ],
+  "nlpl": [
+    "no limit public license",
+    "nlpl"
+  ],
+  "nokia": [
+    "nokia open source license",
+    "nokia"
+  ],
+  "nposl": [
+    "non profit open software license",
+    "nposl"
+  ],
+  "nlod": [
+    "norwegian licence",
+    "nlod"
+  ],
+  "noweb": [
+    "noweb license",
+    "noweb"
+  ],
+  "nrl": [
+    "nrl license",
+    "nrl"
+  ],
+  "ntp": [
+    "ntp license",
+    "ntp"
+  ],
+  "nunit": [
+    "nunit license",
+    "nunit"
+  ],
+  "oclc": [
+    "oclc research public license",
+    "oclc"
+  ],
+  "odbl": [
+    "odc open database license",
+    "odbl"
+  ],
+  "pddl": [
+    "odc public domain dedication",
+    "pddl"
+  ],
+  "occt pl": [
+    "open cascade technology public license",
+    "occt pl"
+  ],
+  "ogtsl": [
+    "open group test suite license",
+    "ogtsl"
+  ],
+  "oldap.2": [
+    "open ldap public license",
+    "oldap"
+  ],
+  "oml": [
+    "open market license",
+    "oml"
+  ],
+  "opl": [
+    "open public license",
+    "opl"
+  ],
+  "osl": [
+    "open software license",
+    "osl"
+  ],
+  "openssl": [
+    "openssl license",
+    "openssl"
+  ],
+  "oset pl": [
+    "oset public license version",
+    "oset pl"
+  ],
+  "php": [
+    "php license",
+    "php"
+  ],
+  "plexus": [
+    "plexus classworlds license",
+    "plexus"
+  ],
+  "postgresql": [
+    "postgresql license",
+    "postgresql"
+  ],
+  "psfrag": [
+    "psfrag license",
+    "psfrag"
+  ],
+  "psutils": [
+    "psutils license",
+    "psutils"
+  ],
+  "python": [
+    "python license",
+    "python"
+  ],
+  "qpl": [
+    "q public license",
+    "qpl"
+  ],
+  "qhull": [
+    "qhull license",
+    "qhull"
+  ],
+  "rdisc": [
+    "rdisc license",
+    "rdisc"
+  ],
+  "rpsl": [
+    "realnetworks public source license",
+    "rpsl"
+  ],
+  "rpl": [
+    "reciprocal public license",
+    "rpl"
+  ],
+  "rhecos": [
+    "red hat ecos public license",
+    "rhecos"
+  ],
+  "rscpl": [
+    "ricoh source code public license",
+    "rscpl"
+  ],
+  "rsa md": [
+    "rsa message digest license",
+    "rsa md"
+  ],
+  "ruby": [
+    "ruby license",
+    "ruby"
+  ],
+  "sax pd": [
+    "sax public domain notice",
+    "sax pd"
+  ],
+  "saxpath": [
+    "saxpath license",
+    "saxpath"
+  ],
+  "scea": [
+    "scea shared source license",
+    "scea"
+  ],
+  "swl": [
+    "scheme widget library (swl) software license",
+    "swl"
+  ],
+  "smppl": [
+    "secure messaging protocol public license",
+    "smppl"
+  ],
+  "sendmail": [
+    "sendmail license",
+    "sendmail"
+  ],
+  "sgi": [
+    "sgi free software license",
+    "sgi"
+  ],
+  "ofl": [
+    "open font license",
+    "ofl"
+  ],
+  "simpl": [
+    "simple public license",
+    "simpl"
+  ],
+  "sleepycat": [
+    "sleepycat license",
+    "sleepycat"
+  ],
+  "snia": [
+    "snia public license",
+    "snia"
+  ],
+  "spencer": [
+    "spencer license",
+    "spencer"
+  ],
+  "smlnj": [
+    "standard ml of new jersey license",
+    "smlnj"
+  ],
+  "sugarcrm": [
+    "sugarcrm public license",
+    "sugarcrm"
+  ],
+  "sissl": [
+    "sun industry standards source license",
+    "sissl"
+  ],
+  "spl": [
+    "sun public license",
+    "spl"
+  ],
+  "watcom": [
+    "sybase open watcom public license",
+    "watcom"
+  ],
+  "tcl": [
+    "tcl"
+  ],
+  "tcp wrappers": [
+    "tcp wrappers"
+  ],
+  "unlicense": [
+    "the unlicense",
+    "unlicense"
+  ],
+  "tmate": [
+    "tmate open source license",
+    "tmate"
+  ],
+  "torque": [
+    "torque"
+  ],
+  "tosl": [
+    "trusster open source license",
+    "tosl"
+  ],
+  "unicode dfs": [
+    "unicode license agreement data files and software",
+    "unicode dfs "
+  ],
+  "unicode tou": [
+    "unicode terms of use",
+    "unicode tou"
+  ],
+  "upl": [
+    "universal permissive license",
+    "upl"
+  ],
+  "ncsa": [
+    "university of illinois/ncsa open source license",
+    "ncsa"
+  ],
+  "vim": [
+    "vim license",
+    "vim"
+  ],
+  "vostrom": [
+    "vostrom public license for open source",
+    "vostrom"
+  ],
+  "vsl": [
+    "vovida software license",
+    "vsl"
+  ],
+  "w3c": [
+    "w3c software notice",
+    "w3c"
+  ],
+  "wsuipa": [
+    "wsuipa license",
+    "wsuipa"
+  ],
+  "wxwindows": [
+    "wxwindows library license",
+    "wxwindows"
+  ],
+  "xnet": [
+    "x.net license",
+    "xnet"
+  ],
+  "x11": [
+    "x11 license",
+    "x11"
+  ],
+  "xerox": [
+    "xerox license",
+    "xerox"
+  ],
+  "xfree86": [
+    "xfree86 license",
+    "xfree86"
+  ],
+  "xinetd": [
+    "xinetd license",
+    "xinetd"
+  ],
+  "xpp": [
+    "xpp license",
+    "xpp"
+  ],
+  "xskat": [
+    "xskat license",
+    "xskat"
+  ],
+  "ypl": [
+    "yahoo! public license",
+    "ypl"
+  ],
+  "zed": [
+    "zed license",
+    "zed"
+  ],
+  "zend": [
+    "zend license",
+    "zend"
+  ],
+  "zimbra": [
+    "zimbra public license",
+    "zimbra"
+  ],
+  "zlib": [
+    "zlib license",
+    "zlib"
+  ],
+  "zlib acknowledgement": [
+    "zlib libpng license with acknowledgement",
+    "zlib acknowledgement"
+  ],
+  "zpl": [
+    "zope public license",
+    "zpl"
+  ],
+  "cdla": [
+    "community data license agreement",
+    "cdla"
+  ],
+  "linux openib": [
+    "linux kernel variant of openib.org license",
+    "linux openib"
+  ],
+  "odc": [
+    "open data commons attribution license",
+    "odc"
+  ],
+  "tu berlin": [
+    "technische universitaet berlin license",
+    "tu berlin"
+  ],
+  "blueoak": [
+    "blue oak model license",
+    "blueoak"
+  ],
+  "cal": [
+    "cryptographic autonomy license",
+    "cal"
+  ],
+  "cc pddc": [
+    "creative commons public domain dedication and certification",
+    "cc pddc"
+  ],
+  "cern ohl": [
+    "cern open hardware licence",
+    "cern ohl"
+  ],
+  "hippocratic": [
+    "hippocratic license",
+    "hippocratic"
+  ],
+  "jpnic": [
+    "japan network information center license",
+    "jpnic"
+  ],
+  "lgpl": [
+    "library general public license",
+    "lgpl"
+  ],
+  "mulanpsl": [
+    "mulan permissive software license",
+    "mulanpsl"
+  ],
+  "ncgl": [
+    "non commercial government licence",
+    "ncgl"
+  ],
+  "o uda": [
+    "open use of data agreement",
+    "o uda"
+  ],
+  "ogc": [
+    "ogc software license, version",
+    "ogc"
+  ],
+  "ogl": [
+    "open government licence",
+    "ogl"
+  ],
+  "psf": [
+    "python software foundation license",
+    "psf"
+  ],
+  "parity": [
+    "the parity public license",
+    "parity"
+  ],
+  "polyform": [
+    "polyform"
+  ],
+  "shl": [
+    "solderpad hardware license",
+    "shl"
+  ],
+  "ssh openssh": [
+    "ssh openssh license",
+    "ssh openssh"
+  ],
+  "ssh short": [
+    "ssh short notice",
+    "ssh short"
+  ],
+  "sspl": [
+    "server side public license",
+    "sspl"
+  ],
+  "standardml": [
+    "standard ml of new jersey license",
+    "standardml"
+  ],
+  "tapr ohl": [
+    "tapr open hardware license",
+    "tapr ohl"
+  ],
+  "ucl": [
+    "upstream compatibility license",
+    "ucl"
+  ],
+  "blessing": [
+    "sqlite blessing",
+    "blessing"
+  ],
+  "copyleft next": [
+    "copyleft next"
+  ],
+  "etalab": [
+    "etalab open license",
+    "etalab"
+  ],
+  "libselinux": [
+    "libselinux public domain notice",
+    "libselinux"
+  ],
+  "bsd 2 clause views": [
+    "bsd 2 clause with views sentence",
+    "bsd 2 clause views"
+  ],
+  "busl": [
+    "business source license",
+    "busl"
+  ],
+  "cc by at": [
+    "creative commons attribution austria",
+    "cc by at"
+  ],
+  "cc by us": [
+    "creative commons attribution united states",
+    "cc by us"
+  ],
+  "cc by nc nd igo": [
+    "creative commons attribution non commercial no derivatives igo",
+    "cc by nc nd igo"
+  ],
+  "cc by sa uk": [
+    "creative commons attribution share alike england and wales",
+    "cc by sa uk"
+  ],
+  "cc by sa at": [
+    "creative commons attribution share alike austria",
+    "cc by sa at"
+  ],
+  "epics": [
+    "epics open license",
+    "epics"
+  ],
+  "glwtpl": [
+    "good luck with that public license",
+    "glwtpl"
+  ],
+  "htmltidy": [
+    "html tidy license",
+    "htmltidy"
+  ],
+  "nist": [
+    "nist public domain notice",
+    "nist pd"
+  ],
+  "cc by nc sa igo": [
+    "creative commons attribution non commercial share alike igo",
+    "cc by nc sa igo"
+  ],
+  "kicad libraries exception": [
+    "kicad libraries exception"
+  ],
+  "linux man pages copyleft": [
+    "linux man pages copyleft"
+  ],
+  "naist": [
+    "nara institute of science and technology license",
+    "naist"
+  ],
+  "baekmuk": [
+    "baekmuk license",
+    "baekmuk"
+  ],
+  "cc by nc nd de": [
+    "creative commons attribution non commercial no derivatives germany",
+    "cc by nc nd de"
+  ],
+  "cdl": [
+    "common documentation license",
+    "cdl"
+  ],
+  "cc by sa de": [
+    "creative commons attribution share alike germany",
+    "cc by sa de"
+  ],
+  "app s2p": [
+    "app s2p license",
+    "app s2p"
+  ],
+  "cc by sa jp": [
+    "creative commons attribution share alike japan",
+    "cc by sa jp"
+  ],
+  "cc by nc de": [
+    "creative commons attribution non commercial germany",
+    "cc by nc de"
+  ],
+  "coil": [
+    "copyfree open innovation license",
+    "coil"
+  ],
+  "ogdl taiwan": [
+    "taiwan open government data license, version",
+    "ogdl taiwan"
+  ],
+  "fdk aac": [
+    "fraunhofer fdk aac codec library",
+    "fdk aac"
+  ],
+  "cc by nc sa fr": [
+    "creative commons attribution noncommercial sharealike france",
+    "cc by nc sa fr"
+  ],
+  "freebsd doc": [
+    "freebsd documentation license",
+    "freebsd doc"
+  ],
+  "drl": [
+    "detection rule license",
+    "drl"
+  ],
+  "cdla permissive": [
+    "community data license agreement permissive",
+    "cdla permissive"
+  ],
+  "schemereport": [
+    "scheme language report license",
+    "schemereport"
+  ],
+  "cc by nd de": [
+    "creative commons attribution no derivatives germany",
+    "cc by nd de"
+  ],
+  "community spec": [
+    "community spec"
+  ],
+  "mplus": [
+    "mplus"
+  ],
+  "x11 distribute modifications variant": [
+    "x11 license distribution modification variant",
+    "x11 distribute modifications variant"
+  ],
+  "cc by nc sa de": [
+    "creative commons attribution non commercial share alike germany",
+    "cc by nc sa de"
+  ],
+  "cc by nc sa uk": [
+    "creative commons attribution non commercial share alike england and wales",
+    "cc by nc sa uk"
+  ],
+  "arphic 1999": [
+    "arphic"
+  ],
+  "elastic": [
+    "elastic license",
+    "elastic"
+  ],
+  "gd": [
+    "gd license",
+    "gd"
+  ],
+  "cc by nl": [
+    "creative commons attribution netherlands",
+    "cc by nl"
+  ],
+  "cc by au": [
+    "creative commons attribution australia",
+    "cc by au"
+  ],
+  "opubl": [
+    "open publication license",
+    "opubl"
+  ],
+  "c uda": [
+    "computational use of data agreement",
+    "c uda"
+  ],
+  "dl de by": [
+    "data licence germany – attribution – version",
+    "dl de by"
+  ],
+  "jam": [
+    "jam license",
+    "jam"
+  ],
+  "cc by de": [
+    "creative commons attribution germany",
+    "cc by de"
+  ]
+}
